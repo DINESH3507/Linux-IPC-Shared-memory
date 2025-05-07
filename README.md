@@ -151,15 +151,6 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 The program is executed successfully.
 
 
-Write the C Program using Linux Process API - Shared Memory
-
-### Step 3:
-
-Execute the C Program for the desired output. 
-
-# PROGRAM:
-
-## Write a C program that illustrates two processes communicating using shared memory.
 
 
 
