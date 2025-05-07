@@ -156,8 +156,4 @@ The program is executed successfully.
 
 
 
-## OUTPUT
 
-
-# RESULT:
-The program is executed successfully.
